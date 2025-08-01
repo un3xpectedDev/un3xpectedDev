@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 idk how to do things but im learning slowly
+i will have random projects as im learning on the way just to track my progress and to be able to look back on it
 
 <!--
 **un3xpectedDev/un3xpectedDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
